@@ -1,4 +1,4 @@
-# python-json-parser
+# Python Json Parser
 A simple python script that parses JSON.
 # Requirements
 * `requests` module (can be installed via pip)
