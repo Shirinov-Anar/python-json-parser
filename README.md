@@ -1,5 +1,5 @@
 # Python Json Parser
-A simple python script that parses JSON.
+This script is designed to fetch JSON data from a specified URL and format it for easy reading. It allows users to specify a range of lines to print from the JSON data or print the entire JSON data.
 # Requirements
 * `requests` module (can be installed via pip)
 # Example
